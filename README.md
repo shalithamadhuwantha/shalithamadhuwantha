@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **Ceylon Pro Scl**
 
-- 🌱 I’m currently learning **CCNA and CEH**
-
 - 👨‍💻 All of my projects are available at [https://github.com/shalithamadhuwantha](https://github.com/shalithamadhuwantha)
 
 - 💬 Ask me about **CODING**
 
-- 📫 How to reach me **bbsmgamage@gmail.com**
+- 📫 How to reach me **contectweberme@gmail.com**
 
 - ⚡ Fun fact **Coding and programming**
 
