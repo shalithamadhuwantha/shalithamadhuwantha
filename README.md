@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalithamadhuwantha" alt="shalithamadhuwantha" /></a> </p>
 
-- 🔭 I’m currently working on **Ceylon Pro Scl**
+- 🔭 I’m currently working on **My own company**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shalithamadhuwantha](https://github.com/shalithamadhuwantha)
 
